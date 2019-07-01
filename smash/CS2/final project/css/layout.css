@@ -1,0 +1,21 @@
+body {
+    margin:0px;
+    padding:0px;
+
+}
+
+.block{
+    width:50%;
+    height:200px;
+    background-color:blue;
+    margin:0px;
+    float:left;
+    overflow: hidden;
+}
+
+#header {
+    background-color:red;
+    width:100%;
+    height:350px;   
+    
+}
